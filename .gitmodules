@@ -1,0 +1,3 @@
+[submodule "LTH"]
+	path = LTH
+	url = git@github.com:Marcelunilsson/LTH.git
