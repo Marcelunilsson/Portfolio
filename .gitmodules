@@ -1,3 +1,6 @@
 [submodule "LTH"]
 	path = LTH
 	url = git@github.com:Marcelunilsson/LTH.git
+[submodule "HousePred"]
+	path = HousePred
+	url = git@github.com:Marcelunilsson/HousePred.git
