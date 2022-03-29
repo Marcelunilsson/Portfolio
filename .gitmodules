@@ -4,3 +4,6 @@
 [submodule "HousePred"]
 	path = HousePred
 	url = git@github.com:Marcelunilsson/HousePred.git
+[submodule "Euler"]
+	path = Euler
+	url = git@github.com:Marcelunilsson/Euler.git
