@@ -7,3 +7,6 @@
 [submodule "Euler"]
 	path = Euler
 	url = git@github.com:Marcelunilsson/Euler.git
+[submodule "Udemy_projects"]
+	path = Udemy_projects
+	url = git@github.com:Marcelunilsson/Udemy_projects.git
